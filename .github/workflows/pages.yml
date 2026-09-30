@@ -1,0 +1,34 @@
+name: Публикация приложения (GitHub Pages)
+
+on:
+  push:
+    branches: [main, claude/english-vocab-learning-app-vzi6dc]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+      - name: Проверка words.json
+        run: python3 -c "import json; d=json.load(open('words.json')); w=d['words'] if isinstance(d,dict) else d; assert all(x.get('en') and x.get('ru') for x in w), 'у каждого слова должны быть en и ru'; print(len(w), 'слов')"
+      - name: Сборка
+        run: |
+          mkdir _site
+          cp -r index.html app.js styles.css sw.js manifest.webmanifest words.json icons _site/
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+      - id: deployment
+        uses: actions/deploy-pages@v4
