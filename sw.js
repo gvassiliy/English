@@ -1,5 +1,5 @@
 // Офлайн-кэш приложения. При изменении файлов увеличьте номер версии.
-const CACHE = 'my-words-v1';
+const CACHE = 'my-words-v2';
 const SHELL = [
   './', 'index.html', 'styles.css', 'app.js', 'manifest.webmanifest',
   'icons/apple-touch-icon.png', 'icons/icon-192.png', 'icons/icon-512.png',

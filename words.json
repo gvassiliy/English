@@ -1,3 +1,1663 @@
 {
-  "words": []
+ "words": [
+  {
+   "en": "my name is…",
+   "ru": "меня зовут…",
+   "ex": "My name is Marselle.",
+   "lesson": "Урок 1 (25 сент.): знакомство, to be",
+   "added": "2026-09-25"
+  },
+  {
+   "en": "to be … years old",
+   "ru": "мне … лет",
+   "ex": "I'm 48 years old.",
+   "lesson": "Урок 1 (25 сент.): знакомство, to be",
+   "added": "2026-09-25"
+  },
+  {
+   "en": "to live",
+   "ru": "жить",
+   "ex": "I live in Germany.",
+   "lesson": "Урок 1 (25 сент.): знакомство, to be",
+   "added": "2026-09-25"
+  },
+  {
+   "en": "to work",
+   "ru": "работать",
+   "ex": "I work in financial investigations.",
+   "lesson": "Урок 1 (25 сент.): знакомство, to be",
+   "added": "2026-09-25"
+  },
+  {
+   "en": "financial investigation",
+   "ru": "финансовое расследование",
+   "ex": "I work in financial investigations.",
+   "lesson": "Урок 1 (25 сент.): знакомство, to be",
+   "added": "2026-09-25"
+  },
+  {
+   "en": "to be married",
+   "ru": "быть женатым",
+   "ex": "I'm married.",
+   "lesson": "Урок 1 (25 сент.): знакомство, to be",
+   "added": "2026-09-25"
+  },
+  {
+   "en": "daughter",
+   "ru": "дочь",
+   "ex": "I have one daughter.",
+   "lesson": "Урок 1 (25 сент.): знакомство, to be",
+   "added": "2026-09-25"
+  },
+  {
+   "en": "in the evening",
+   "ru": "вечером",
+   "ex": "In the evening I usually relax at home.",
+   "lesson": "Урок 1 (25 сент.): знакомство, to be",
+   "added": "2026-09-25"
+  },
+  {
+   "en": "usually",
+   "ru": "обычно",
+   "ex": "I usually relax at home.",
+   "lesson": "Урок 1 (25 сент.): знакомство, to be",
+   "added": "2026-09-25"
+  },
+  {
+   "en": "to relax",
+   "ru": "отдыхать",
+   "ex": "I relax at home in the evening.",
+   "lesson": "Урок 1 (25 сент.): знакомство, to be",
+   "added": "2026-09-25"
+  },
+  {
+   "en": "at home",
+   "ru": "дома",
+   "ex": "I play the piano at home.",
+   "lesson": "Урок 1 (25 сент.): знакомство, to be",
+   "added": "2026-09-25"
+  },
+  {
+   "en": "nice to meet you",
+   "ru": "приятно познакомиться",
+   "ex": "Nice to meet you, Anna.",
+   "lesson": "Урок 1 (25 сент.): знакомство, to be",
+   "added": "2026-09-25"
+  },
+  {
+   "en": "from",
+   "ru": "из (откуда)",
+   "ex": "I'm from Russia.",
+   "lesson": "Урок 1 (25 сент.): знакомство, to be",
+   "added": "2026-09-25"
+  },
+  {
+   "en": "to get up",
+   "ru": "вставать",
+   "ex": "I get up at seven.",
+   "lesson": "Урок 2 (26 сент.): распорядок дня, Present Simple",
+   "added": "2026-09-26"
+  },
+  {
+   "en": "to have breakfast",
+   "ru": "завтракать",
+   "ex": "I have breakfast at home.",
+   "lesson": "Урок 2 (26 сент.): распорядок дня, Present Simple",
+   "added": "2026-09-26"
+  },
+  {
+   "en": "to go to work",
+   "ru": "ходить на работу",
+   "ex": "I go to work every day.",
+   "lesson": "Урок 2 (26 сент.): распорядок дня, Present Simple",
+   "added": "2026-09-26"
+  },
+  {
+   "en": "to start work",
+   "ru": "начинать работу",
+   "ex": "I start work at nine.",
+   "lesson": "Урок 2 (26 сент.): распорядок дня, Present Simple",
+   "added": "2026-09-26"
+  },
+  {
+   "en": "to have lunch",
+   "ru": "обедать",
+   "ex": "I have lunch at one.",
+   "lesson": "Урок 2 (26 сент.): распорядок дня, Present Simple",
+   "added": "2026-09-26"
+  },
+  {
+   "en": "to finish work",
+   "ru": "заканчивать работу",
+   "ex": "I finish work at six.",
+   "lesson": "Урок 2 (26 сент.): распорядок дня, Present Simple",
+   "added": "2026-09-26"
+  },
+  {
+   "en": "to go home",
+   "ru": "идти домой",
+   "ex": "I go home after work.",
+   "lesson": "Урок 2 (26 сент.): распорядок дня, Present Simple",
+   "added": "2026-09-26"
+  },
+  {
+   "en": "to go to bed",
+   "ru": "ложиться спать",
+   "ex": "I go to bed at eleven.",
+   "lesson": "Урок 2 (26 сент.): распорядок дня, Present Simple",
+   "added": "2026-09-26"
+  },
+  {
+   "en": "What time do you…?",
+   "ru": "Во сколько ты…?",
+   "ex": "What time do you get up?",
+   "lesson": "Урок 2 (26 сент.): распорядок дня, Present Simple",
+   "added": "2026-09-26"
+  },
+  {
+   "en": "seven thirty",
+   "ru": "семь тридцать",
+   "ex": "I get up at seven thirty.",
+   "lesson": "Урок 2 (26 сент.): распорядок дня, Present Simple",
+   "added": "2026-09-26"
+  },
+  {
+   "en": "on Sundays",
+   "ru": "по воскресеньям",
+   "ex": "I don't work on Sundays.",
+   "lesson": "Урок 2 (26 сент.): распорядок дня, Present Simple",
+   "added": "2026-09-26"
+  },
+  {
+   "en": "don't",
+   "ru": "не (отрицание: I/you/we/they)",
+   "ex": "I don't work on Sundays.",
+   "lesson": "Урок 2 (26 сент.): распорядок дня, Present Simple",
+   "added": "2026-09-26"
+  },
+  {
+   "en": "to like reading",
+   "ru": "любить читать",
+   "ex": "I like reading books.",
+   "lesson": "Урок 3 (26 сент.): хобби и свободное время, like + -ing",
+   "added": "2026-09-26"
+  },
+  {
+   "en": "to play football",
+   "ru": "играть в футбол",
+   "ex": "I play football on Sundays.",
+   "lesson": "Урок 3 (26 сент.): хобби и свободное время, like + -ing",
+   "added": "2026-09-26"
+  },
+  {
+   "en": "to watch films",
+   "ru": "смотреть фильмы",
+   "ex": "I watch films in the evening.",
+   "lesson": "Урок 3 (26 сент.): хобби и свободное время, like + -ing",
+   "added": "2026-09-26"
+  },
+  {
+   "en": "to listen to music",
+   "ru": "слушать музыку",
+   "ex": "I listen to music in the car.",
+   "lesson": "Урок 3 (26 сент.): хобби и свободное время, like + -ing",
+   "added": "2026-09-26"
+  },
+  {
+   "en": "to go for a walk",
+   "ru": "ходить на прогулку",
+   "ex": "I go for a walk with my wife.",
+   "lesson": "Урок 3 (26 сент.): хобби и свободное время, like + -ing",
+   "added": "2026-09-26"
+  },
+  {
+   "en": "to spend time with family",
+   "ru": "проводить время с семьёй",
+   "ex": "I spend time with my family at the weekend.",
+   "lesson": "Урок 3 (26 сент.): хобби и свободное время, like + -ing",
+   "added": "2026-09-26"
+  },
+  {
+   "en": "free time",
+   "ru": "свободное время",
+   "ex": "I don't have much free time.",
+   "lesson": "Урок 3 (26 сент.): хобби и свободное время, like + -ing",
+   "added": "2026-09-26"
+  },
+  {
+   "en": "What do you do in your free time?",
+   "ru": "Что ты делаешь в свободное время?",
+   "ex": "What do you do in your free time? — I play the piano.",
+   "lesson": "Урок 3 (26 сент.): хобби и свободное время, like + -ing",
+   "added": "2026-09-26"
+  },
+  {
+   "en": "times a week",
+   "ru": "раз в неделю",
+   "ex": "I go to the gym three times a week.",
+   "lesson": "Урок 3 (26 сент.): хобби и свободное время, like + -ing",
+   "added": "2026-09-26"
+  },
+  {
+   "en": "to go to the gym",
+   "ru": "ходить в спортзал",
+   "ex": "I go to the gym three times a week.",
+   "lesson": "Урок 3 (26 сент.): хобби и свободное время, like + -ing",
+   "added": "2026-09-26"
+  },
+  {
+   "en": "to play ice hockey",
+   "ru": "играть в хоккей",
+   "ex": "I play ice hockey twice a week.",
+   "lesson": "Урок 3 (26 сент.): хобби и свободное время, like + -ing",
+   "added": "2026-09-26"
+  },
+  {
+   "en": "to play the piano",
+   "ru": "играть на пианино",
+   "ex": "I like playing the piano.",
+   "lesson": "Урок 3 (26 сент.): хобби и свободное время, like + -ing",
+   "added": "2026-09-26"
+  },
+  {
+   "en": "to start",
+   "ru": "начинать",
+   "ex": "I started seven years ago.",
+   "lesson": "Урок 3 (26 сент.): хобби и свободное время, like + -ing",
+   "added": "2026-09-26"
+  },
+  {
+   "en": "ago",
+   "ru": "назад",
+   "ex": "I started seven years ago.",
+   "lesson": "Урок 3 (26 сент.): хобби и свободное время, like + -ing",
+   "added": "2026-09-26"
+  },
+  {
+   "en": "alone",
+   "ru": "один, в одиночку",
+   "ex": "I play alone at home.",
+   "lesson": "Урок 3 (26 сент.): хобби и свободное время, like + -ing",
+   "added": "2026-09-26"
+  },
+  {
+   "en": "to be still learning",
+   "ru": "всё ещё учиться",
+   "ex": "I'm still learning.",
+   "lesson": "Урок 3 (26 сент.): хобби и свободное время, like + -ing",
+   "added": "2026-09-26"
+  },
+  {
+   "en": "to have time to…",
+   "ru": "иметь время, чтобы…",
+   "ex": "I don't have time to watch films.",
+   "lesson": "Урок 3 (26 сент.): хобби и свободное время, like + -ing",
+   "added": "2026-09-26"
+  },
+  {
+   "en": "jazz",
+   "ru": "джаз",
+   "ex": "I like jazz and boogie-woogie.",
+   "lesson": "Урок 3 (26 сент.): хобби и свободное время, like + -ing",
+   "added": "2026-09-26"
+  },
+  {
+   "en": "adventure film",
+   "ru": "приключенческий фильм",
+   "ex": "I like adventure films.",
+   "lesson": "Урок 3 (26 сент.): хобби и свободное время, like + -ing",
+   "added": "2026-09-26"
+  },
+  {
+   "en": "to cook",
+   "ru": "готовить",
+   "ex": "I don't like cooking, but I like eating.",
+   "lesson": "Урок 3 (26 сент.): хобби и свободное время, like + -ing",
+   "added": "2026-09-26"
+  },
+  {
+   "en": "family",
+   "ru": "семья",
+   "ex": "I have a family.",
+   "lesson": "Урок 4 (28 сент.): семья и работа, he/she + -s",
+   "added": "2026-09-28"
+  },
+  {
+   "en": "wife",
+   "ru": "жена",
+   "ex": "My wife works in a school.",
+   "lesson": "Урок 4 (28 сент.): семья и работа, he/she + -s",
+   "added": "2026-09-28"
+  },
+  {
+   "en": "school",
+   "ru": "школа",
+   "ex": "My wife works in a school.",
+   "lesson": "Урок 4 (28 сент.): семья и работа, he/she + -s",
+   "added": "2026-09-28"
+  },
+  {
+   "en": "student",
+   "ru": "студент",
+   "ex": "My daughter is a student.",
+   "lesson": "Урок 4 (28 сент.): семья и работа, he/she + -s",
+   "added": "2026-09-28"
+  },
+  {
+   "en": "parents",
+   "ru": "родители",
+   "ex": "My parents live in Russia.",
+   "lesson": "Урок 4 (28 сент.): семья и работа, he/she + -s",
+   "added": "2026-09-28"
+  },
+  {
+   "en": "company",
+   "ru": "компания",
+   "ex": "I work for a company.",
+   "lesson": "Урок 4 (28 сент.): семья и работа, he/she + -s",
+   "added": "2026-09-28"
+  },
+  {
+   "en": "to work for",
+   "ru": "работать на (в компании)",
+   "ex": "I work for a company.",
+   "lesson": "Урок 4 (28 сент.): семья и работа, he/she + -s",
+   "added": "2026-09-28"
+  },
+  {
+   "en": "colleague",
+   "ru": "коллега",
+   "ex": "My colleague speaks German.",
+   "lesson": "Урок 4 (28 сент.): семья и работа, he/she + -s",
+   "added": "2026-09-28"
+  },
+  {
+   "en": "to speak German",
+   "ru": "говорить по-немецки",
+   "ex": "My colleague speaks German.",
+   "lesson": "Урок 4 (28 сент.): семья и работа, he/she + -s",
+   "added": "2026-09-28"
+  },
+  {
+   "en": "German",
+   "ru": "немецкий язык; немецкий",
+   "ex": "He speaks German.",
+   "lesson": "Урок 4 (28 сент.): семья и работа, he/she + -s",
+   "added": "2026-09-28"
+  },
+  {
+   "en": "Germany",
+   "ru": "Германия",
+   "ex": "I live in Germany.",
+   "lesson": "Урок 4 (28 сент.): семья и работа, he/she + -s",
+   "added": "2026-09-28"
+  },
+  {
+   "en": "together",
+   "ru": "вместе",
+   "ex": "We work together.",
+   "lesson": "Урок 4 (28 сент.): семья и работа, he/she + -s",
+   "added": "2026-09-28"
+  },
+  {
+   "en": "doesn't",
+   "ru": "не (отрицание: he/she/it)",
+   "ex": "My daughter doesn't work.",
+   "lesson": "Урок 4 (28 сент.): семья и работа, he/she + -s",
+   "added": "2026-09-28"
+  },
+  {
+   "en": "Does your wife work?",
+   "ru": "Твоя жена работает?",
+   "ex": "Does your wife work? — Yes, she does.",
+   "lesson": "Урок 4 (28 сент.): семья и работа, he/she + -s",
+   "added": "2026-09-28"
+  },
+  {
+   "en": "Do you have a family?",
+   "ru": "У тебя есть семья?",
+   "ex": "Do you have a family? — Yes, I do.",
+   "lesson": "Урок 4 (28 сент.): семья и работа, he/she + -s",
+   "added": "2026-09-28"
+  },
+  {
+   "en": "Where do your parents live?",
+   "ru": "Где живут твои родители?",
+   "ex": "Where do your parents live? — In Russia.",
+   "lesson": "Урок 4 (28 сент.): семья и работа, he/she + -s",
+   "added": "2026-09-28"
+  },
+  {
+   "en": "Excuse me, how much is this?",
+   "ru": "Извините, сколько это стоит?",
+   "ex": "Excuse me, how much is this jacket?",
+   "lesson": "Урок 5: Магазин одежды",
+   "added": "2026-10-10"
+  },
+  {
+   "en": "to try on",
+   "ru": "примерять",
+   "ex": "Can I try it on?",
+   "lesson": "Урок 5: Магазин одежды",
+   "added": "2026-10-10"
+  },
+  {
+   "en": "fitting room",
+   "ru": "примерочная",
+   "ex": "Where is the fitting room?",
+   "lesson": "Урок 5: Магазин одежды",
+   "added": "2026-10-10"
+  },
+  {
+   "en": "Do you have this in a larger size?",
+   "ru": "У вас есть побольше размером?",
+   "ex": "Do you have this jacket in a larger size?",
+   "lesson": "Урок 5: Магазин одежды",
+   "added": "2026-10-10"
+  },
+  {
+   "en": "too small",
+   "ru": "слишком маленький",
+   "ex": "It's too small for me.",
+   "lesson": "Урок 5: Магазин одежды",
+   "added": "2026-10-10"
+  },
+  {
+   "en": "I'll take it",
+   "ru": "Я возьму это",
+   "ex": "It's perfect, I'll take it.",
+   "lesson": "Урок 5: Магазин одежды",
+   "added": "2026-10-10"
+  },
+  {
+   "en": "to pay by card",
+   "ru": "платить картой",
+   "ex": "Can I pay by card?",
+   "lesson": "Урок 5: Магазин одежды",
+   "added": "2026-10-10"
+  },
+  {
+   "en": "I'm just looking, thank you",
+   "ru": "Я просто смотрю, спасибо",
+   "ex": "No, I'm just looking, thank you.",
+   "lesson": "Урок 5: Магазин одежды",
+   "added": "2026-10-10"
+  },
+  {
+   "en": "jacket",
+   "ru": "куртка",
+   "ex": "I'm looking for a black jacket.",
+   "lesson": "Урок 5: Магазин одежды",
+   "added": "2026-10-10"
+  },
+  {
+   "en": "smaller",
+   "ru": "меньше",
+   "ex": "Do you have a smaller size?",
+   "lesson": "Урок 5: Магазин одежды",
+   "added": "2026-10-10"
+  },
+  {
+   "en": "shoes",
+   "ru": "обувь, туфли",
+   "ex": "I'm looking for shoes.",
+   "lesson": "Урок 6: Обувь",
+   "added": "2026-10-10"
+  },
+  {
+   "en": "to look for",
+   "ru": "искать",
+   "ex": "I'm looking for running shoes.",
+   "lesson": "Урок 6: Обувь",
+   "added": "2026-10-10"
+  },
+  {
+   "en": "What size do you wear?",
+   "ru": "Какой у вас размер?",
+   "ex": "What size do you wear, sir?",
+   "lesson": "Урок 6: Обувь",
+   "added": "2026-10-10"
+  },
+  {
+   "en": "to wear size",
+   "ru": "носить размер",
+   "ex": "I wear size forty-three.",
+   "lesson": "Урок 6: Обувь",
+   "added": "2026-10-10"
+  },
+  {
+   "en": "How much are they?",
+   "ru": "Сколько они стоят?",
+   "ex": "These shoes are nice. How much are they?",
+   "lesson": "Урок 6: Обувь",
+   "added": "2026-10-10"
+  },
+  {
+   "en": "Can I try them on?",
+   "ru": "Можно их примерить?",
+   "ex": "Can I try them on, please?",
+   "lesson": "Урок 6: Обувь",
+   "added": "2026-10-10"
+  },
+  {
+   "en": "A table for two, please",
+   "ru": "Столик на двоих, пожалуйста",
+   "ex": "Good evening! A table for two, please.",
+   "lesson": "Урок 7: Кафе и ресторан",
+   "added": "2026-10-10"
+  },
+  {
+   "en": "menu",
+   "ru": "меню",
+   "ex": "Can I see the menu, please?",
+   "lesson": "Урок 7: Кафе и ресторан",
+   "added": "2026-10-10"
+  },
+  {
+   "en": "to order",
+   "ru": "заказывать",
+   "ex": "I'd like to order, please.",
+   "lesson": "Урок 7: Кафе и ресторан",
+   "added": "2026-10-10"
+  },
+  {
+   "en": "What do you recommend?",
+   "ru": "Что вы посоветуете?",
+   "ex": "What do you recommend for dinner?",
+   "lesson": "Урок 7: Кафе и ресторан",
+   "added": "2026-10-10"
+  },
+  {
+   "en": "I'd like…",
+   "ru": "Я бы хотел…",
+   "ex": "I'd like a coffee, please.",
+   "lesson": "Урок 7: Кафе и ресторан",
+   "added": "2026-10-10"
+  },
+  {
+   "en": "to be allergic to",
+   "ru": "иметь аллергию на",
+   "ex": "I'm allergic to nuts.",
+   "lesson": "Урок 7: Кафе и ресторан",
+   "added": "2026-10-10"
+  },
+  {
+   "en": "outside",
+   "ru": "на улице, снаружи",
+   "ex": "Is there a table outside?",
+   "lesson": "Урок 7: Кафе и ресторан",
+   "added": "2026-10-10"
+  },
+  {
+   "en": "bill",
+   "ru": "счёт",
+   "ex": "Can I have the bill, please?",
+   "lesson": "Урок 7: Кафе и ресторан",
+   "added": "2026-10-10"
+  },
+  {
+   "en": "tip",
+   "ru": "чаевые",
+   "ex": "What about the tip?",
+   "lesson": "Урок 7: Кафе и ресторан",
+   "added": "2026-10-10"
+  },
+  {
+   "en": "fish",
+   "ru": "рыба",
+   "ex": "I'd like the fish, please.",
+   "lesson": "Урок 7: Кафе и ресторан",
+   "added": "2026-10-10"
+  },
+  {
+   "en": "salmon",
+   "ru": "лосось",
+   "ex": "The salmon is very good here.",
+   "lesson": "Урок 7: Кафе и ресторан",
+   "added": "2026-10-10"
+  },
+  {
+   "en": "this way",
+   "ru": "сюда, проходите",
+   "ex": "Your table is ready, this way, please.",
+   "lesson": "Урок 7: Кафе и ресторан",
+   "added": "2026-10-10"
+  },
+  {
+   "en": "kilo",
+   "ru": "килограмм",
+   "ex": "How much is a kilo of apples?",
+   "lesson": "Урок 8: Продукты, цены и вопросы в магазине",
+   "added": "2026-10-10"
+  },
+  {
+   "en": "some bread",
+   "ru": "немного хлеба",
+   "ex": "Can I have some bread, please?",
+   "lesson": "Урок 8: Продукты, цены и вопросы в магазине",
+   "added": "2026-10-10"
+  },
+  {
+   "en": "any milk",
+   "ru": "какое-нибудь молоко (в вопросе)",
+   "ex": "Do you have any milk?",
+   "lesson": "Урок 8: Продукты, цены и вопросы в магазине",
+   "added": "2026-10-10"
+  },
+  {
+   "en": "bottle",
+   "ru": "бутылка",
+   "ex": "A bottle of water, please.",
+   "lesson": "Урок 8: Продукты, цены и вопросы в магазине",
+   "added": "2026-10-10"
+  },
+  {
+   "en": "tomatoes",
+   "ru": "помидоры",
+   "ex": "A kilo of tomatoes, please.",
+   "lesson": "Урок 8: Продукты, цены и вопросы в магазине",
+   "added": "2026-10-10"
+  },
+  {
+   "en": "That's all, thank you",
+   "ru": "Это всё, спасибо",
+   "ex": "That's all, thank you. How much is it?",
+   "lesson": "Урок 8: Продукты, цены и вопросы в магазине",
+   "added": "2026-10-10"
+  },
+  {
+   "en": "all together",
+   "ru": "всего, в сумме",
+   "ex": "How much is it all together?",
+   "lesson": "Урок 8: Продукты, цены и вопросы в магазине",
+   "added": "2026-10-10"
+  },
+  {
+   "en": "to find",
+   "ru": "находить",
+   "ex": "Where can I find the milk?",
+   "lesson": "Урок 8: Продукты, цены и вопросы в магазине",
+   "added": "2026-10-10"
+  },
+  {
+   "en": "cheaper",
+   "ru": "дешевле",
+   "ex": "Do you have anything cheaper?",
+   "lesson": "Урок 8: Продукты, цены и вопросы в магазине",
+   "added": "2026-10-10"
+  },
+  {
+   "en": "checkout",
+   "ru": "касса",
+   "ex": "Where is the checkout?",
+   "lesson": "Урок 8: Продукты, цены и вопросы в магазине",
+   "added": "2026-10-10"
+  },
+  {
+   "en": "cash",
+   "ru": "наличные",
+   "ex": "Can I pay in cash?",
+   "lesson": "Урок 8: Продукты, цены и вопросы в магазине",
+   "added": "2026-10-10"
+  },
+  {
+   "en": "fresh",
+   "ru": "свежий",
+   "ex": "Is this bread fresh?",
+   "lesson": "Урок 8: Продукты, цены и вопросы в магазине",
+   "added": "2026-10-10"
+  },
+  {
+   "en": "bag",
+   "ru": "пакет",
+   "ex": "Can you give me a bag, please?",
+   "lesson": "Урок 8: Продукты, цены и вопросы в магазине",
+   "added": "2026-10-10"
+  },
+  {
+   "en": "How do I get to…?",
+   "ru": "Как мне добраться до…?",
+   "ex": "Excuse me, how do I get to the station?",
+   "lesson": "Урок 9: Как спросить дорогу",
+   "added": "2026-10-10"
+  },
+  {
+   "en": "Is it far?",
+   "ru": "Это далеко?",
+   "ex": "Is it far from here?",
+   "lesson": "Урок 9: Как спросить дорогу",
+   "added": "2026-10-10"
+  },
+  {
+   "en": "near here",
+   "ru": "рядом, поблизости",
+   "ex": "Is there a bank near here?",
+   "lesson": "Урок 9: Как спросить дорогу",
+   "added": "2026-10-10"
+  },
+  {
+   "en": "to turn left",
+   "ru": "поворачивать налево",
+   "ex": "Turn left at the bank.",
+   "lesson": "Урок 9: Как спросить дорогу",
+   "added": "2026-10-10"
+  },
+  {
+   "en": "to turn right",
+   "ru": "поворачивать направо",
+   "ex": "Turn right after the shop.",
+   "lesson": "Урок 9: Как спросить дорогу",
+   "added": "2026-10-10"
+  },
+  {
+   "en": "to go straight on",
+   "ru": "идти прямо",
+   "ex": "Go straight on for two hundred metres.",
+   "lesson": "Урок 9: Как спросить дорогу",
+   "added": "2026-10-10"
+  },
+  {
+   "en": "over there",
+   "ru": "вон там",
+   "ex": "The station is over there.",
+   "lesson": "Урок 9: Как спросить дорогу",
+   "added": "2026-10-10"
+  },
+  {
+   "en": "traffic lights",
+   "ru": "светофор",
+   "ex": "Turn left at the traffic lights.",
+   "lesson": "Урок 9: Как спросить дорогу",
+   "added": "2026-10-10"
+  },
+  {
+   "en": "Where are you from?",
+   "ru": "Откуда вы?",
+   "ex": "Where are you from? — I'm from Russia.",
+   "lesson": "Урок 10: Знакомство и small talk",
+   "added": "2026-10-10"
+  },
+  {
+   "en": "What do you do?",
+   "ru": "Чем вы занимаетесь (по работе)?",
+   "ex": "What do you do? — I work in financial investigations.",
+   "lesson": "Урок 10: Знакомство и small talk",
+   "added": "2026-10-10"
+  },
+  {
+   "en": "favourite",
+   "ru": "любимый",
+   "ex": "What's your favourite food?",
+   "lesson": "Урок 10: Знакомство и small talk",
+   "added": "2026-10-10"
+  },
+  {
+   "en": "also",
+   "ru": "тоже, также",
+   "ex": "I also like fish.",
+   "lesson": "Урок 10: Знакомство и small talk",
+   "added": "2026-10-10"
+  },
+  {
+   "en": "Let's…",
+   "ru": "Давай…",
+   "ex": "Let's go for a walk in the park!",
+   "lesson": "Урок 11: Приглашение на прогулку",
+   "added": "2026-10-10"
+  },
+  {
+   "en": "Would you like to…?",
+   "ru": "Не хотите ли…?",
+   "ex": "Would you like to go for a walk?",
+   "lesson": "Урок 11: Приглашение на прогулку",
+   "added": "2026-10-10"
+  },
+  {
+   "en": "I'd love to",
+   "ru": "С удовольствием",
+   "ex": "Would you like to come? — I'd love to!",
+   "lesson": "Урок 11: Приглашение на прогулку",
+   "added": "2026-10-10"
+  },
+  {
+   "en": "maybe",
+   "ru": "может быть",
+   "ex": "Maybe we can go now.",
+   "lesson": "Урок 11: Приглашение на прогулку",
+   "added": "2026-10-10"
+  },
+  {
+   "en": "to be free",
+   "ru": "быть свободным",
+   "ex": "When are you free?",
+   "lesson": "Урок 11: Приглашение на прогулку",
+   "added": "2026-10-10"
+  },
+  {
+   "en": "Where shall we meet?",
+   "ru": "Где встретимся?",
+   "ex": "Where shall we meet on Saturday?",
+   "lesson": "Урок 11: Приглашение на прогулку",
+   "added": "2026-10-10"
+  },
+  {
+   "en": "entrance",
+   "ru": "вход",
+   "ex": "Let's meet at the park entrance.",
+   "lesson": "Урок 11: Приглашение на прогулку",
+   "added": "2026-10-10"
+  },
+  {
+   "en": "See you soon!",
+   "ru": "До скорого!",
+   "ex": "OK, great. See you soon!",
+   "lesson": "Урок 11: Приглашение на прогулку",
+   "added": "2026-10-10"
+  },
+  {
+   "en": "What's the weather like today?",
+   "ru": "Какая сегодня погода?",
+   "ex": "What's the weather like today in Frankfurt?",
+   "lesson": "Урок 12: Погода",
+   "added": "2026-10-10"
+  },
+  {
+   "en": "sunny",
+   "ru": "солнечно",
+   "ex": "It's sunny today.",
+   "lesson": "Урок 12: Погода",
+   "added": "2026-10-10"
+  },
+  {
+   "en": "to rain",
+   "ru": "идти (о дожде)",
+   "ex": "It's raining.",
+   "lesson": "Урок 12: Погода",
+   "added": "2026-10-10"
+  },
+  {
+   "en": "cold",
+   "ru": "холодно",
+   "ex": "It's cold in the morning.",
+   "lesson": "Урок 12: Погода",
+   "added": "2026-10-10"
+  },
+  {
+   "en": "hot",
+   "ru": "жарко",
+   "ex": "It's very hot in summer.",
+   "lesson": "Урок 12: Погода",
+   "added": "2026-10-10"
+  },
+  {
+   "en": "warm",
+   "ru": "тепло",
+   "ex": "It's warm today.",
+   "lesson": "Урок 12: Погода",
+   "added": "2026-10-10"
+  },
+  {
+   "en": "windy",
+   "ru": "ветрено",
+   "ex": "It's windy near the river.",
+   "lesson": "Урок 12: Погода",
+   "added": "2026-10-10"
+  },
+  {
+   "en": "cloudy",
+   "ru": "облачно",
+   "ex": "It's cloudy today.",
+   "lesson": "Урок 12: Погода",
+   "added": "2026-10-10"
+  },
+  {
+   "en": "in the morning",
+   "ru": "утром",
+   "ex": "It's cold in the morning.",
+   "lesson": "Урок 12: Погода",
+   "added": "2026-10-10"
+  },
+  {
+   "en": "It's a nice day, isn't it?",
+   "ru": "Хороший день, не правда ли?",
+   "ex": "It's a nice day, isn't it? — Yes, it's lovely.",
+   "lesson": "Урок 12: Погода",
+   "added": "2026-10-10"
+  },
+  {
+   "en": "umbrella",
+   "ru": "зонт",
+   "ex": "Do I need an umbrella?",
+   "lesson": "Урок 12: Погода",
+   "added": "2026-10-10"
+  },
+  {
+   "en": "It's going to rain",
+   "ru": "Сейчас пойдёт дождь",
+   "ex": "Look at the clouds, it's going to rain.",
+   "lesson": "Урок 12: Погода",
+   "added": "2026-10-10"
+  },
+  {
+   "en": "sky",
+   "ru": "небо",
+   "ex": "Look at the sky!",
+   "lesson": "Урок 12: Погода",
+   "added": "2026-10-10"
+  },
+  {
+   "en": "cloud",
+   "ru": "облако",
+   "ex": "Look at the clouds.",
+   "lesson": "Урок 12: Погода",
+   "added": "2026-10-10"
+  },
+  {
+   "en": "Here is my passport",
+   "ru": "Вот мой паспорт",
+   "ex": "Good morning. Here is my passport.",
+   "lesson": "Урок 13: Паспортный контроль",
+   "added": "2026-10-10"
+  },
+  {
+   "en": "I'm here on business",
+   "ru": "Я здесь по работе",
+   "ex": "I'm here on business for one week.",
+   "lesson": "Урок 13: Паспортный контроль",
+   "added": "2026-10-10"
+  },
+  {
+   "en": "I'm here on vacation",
+   "ru": "Я здесь на отдыхе",
+   "ex": "I'm here on vacation with my wife.",
+   "lesson": "Урок 13: Паспортный контроль",
+   "added": "2026-10-10"
+  },
+  {
+   "en": "purpose",
+   "ru": "цель",
+   "ex": "What's the purpose of your visit?",
+   "lesson": "Урок 13: Паспортный контроль",
+   "added": "2026-10-10"
+  },
+  {
+   "en": "How long are you staying?",
+   "ru": "Как долго вы пробудете?",
+   "ex": "How long are you staying in the USA?",
+   "lesson": "Урок 13: Паспортный контроль",
+   "added": "2026-10-10"
+  },
+  {
+   "en": "For two weeks",
+   "ru": "На две недели",
+   "ex": "I'm staying for two weeks.",
+   "lesson": "Урок 13: Паспортный контроль",
+   "added": "2026-10-10"
+  },
+  {
+   "en": "to stay at",
+   "ru": "остановиться в (отеле)",
+   "ex": "I'm staying at the Marriott.",
+   "lesson": "Урок 13: Паспортный контроль",
+   "added": "2026-10-10"
+  },
+  {
+   "en": "reservation",
+   "ru": "бронь",
+   "ex": "I have a reservation for two nights.",
+   "lesson": "Урок 14: Отель",
+   "added": "2026-10-10"
+  },
+  {
+   "en": "to check in",
+   "ru": "заселяться",
+   "ex": "I'd like to check in, please.",
+   "lesson": "Урок 14: Отель",
+   "added": "2026-10-10"
+  },
+  {
+   "en": "to book",
+   "ru": "бронировать",
+   "ex": "I booked a double room.",
+   "lesson": "Урок 14: Отель",
+   "added": "2026-10-10"
+  },
+  {
+   "en": "double room",
+   "ru": "двухместный номер",
+   "ex": "I booked a double room for three nights.",
+   "lesson": "Урок 14: Отель",
+   "added": "2026-10-10"
+  },
+  {
+   "en": "check-out",
+   "ru": "выезд из отеля",
+   "ex": "What time is check-out?",
+   "lesson": "Урок 14: Отель",
+   "added": "2026-10-10"
+  },
+  {
+   "en": "Is … included?",
+   "ru": "… включён?",
+   "ex": "Is breakfast included?",
+   "lesson": "Урок 14: Отель",
+   "added": "2026-10-10"
+  },
+  {
+   "en": "key",
+   "ru": "ключ",
+   "ex": "Can I have the key, please?",
+   "lesson": "Урок 14: Отель",
+   "added": "2026-10-10"
+  },
+  {
+   "en": "breakfast room",
+   "ru": "зал для завтрака",
+   "ex": "Where is the breakfast room?",
+   "lesson": "Урок 14: Отель",
+   "added": "2026-10-10"
+  },
+  {
+   "en": "taxi stand",
+   "ru": "стоянка такси",
+   "ex": "Where is the taxi stand?",
+   "lesson": "Урок 15: Такси и транспорт",
+   "added": "2026-10-10"
+  },
+  {
+   "en": "to take me to",
+   "ru": "отвезти меня в",
+   "ex": "Can you take me to this address?",
+   "lesson": "Урок 15: Такси и транспорт",
+   "added": "2026-10-10"
+  },
+  {
+   "en": "city centre",
+   "ru": "центр города",
+   "ex": "How much is it to the city centre?",
+   "lesson": "Урок 15: Такси и транспорт",
+   "added": "2026-10-10"
+  },
+  {
+   "en": "How far is it to…?",
+   "ru": "Как далеко до…?",
+   "ex": "How far is it to the airport?",
+   "lesson": "Урок 15: Такси и транспорт",
+   "added": "2026-10-10"
+  },
+  {
+   "en": "Stop here, please",
+   "ru": "Остановите здесь, пожалуйста",
+   "ex": "Stop here, please, near the hotel.",
+   "lesson": "Урок 15: Такси и транспорт",
+   "added": "2026-10-10"
+  },
+  {
+   "en": "Here you are",
+   "ru": "Вот, держите",
+   "ex": "Here you are, keep the change.",
+   "lesson": "Урок 15: Такси и транспорт",
+   "added": "2026-10-10"
+  },
+  {
+   "en": "Here we are",
+   "ru": "Приехали",
+   "ex": "Here we are, this is your hotel.",
+   "lesson": "Урок 15: Такси и транспорт",
+   "added": "2026-10-10"
+  },
+  {
+   "en": "to rent a car",
+   "ru": "арендовать машину",
+   "ex": "I'd like to rent a car for three days.",
+   "lesson": "Урок 16: Аренда машины и заправка",
+   "added": "2026-10-10"
+  },
+  {
+   "en": "per day",
+   "ru": "в день",
+   "ex": "How much is it per day?",
+   "lesson": "Урок 16: Аренда машины и заправка",
+   "added": "2026-10-10"
+  },
+  {
+   "en": "insurance",
+   "ru": "страховка",
+   "ex": "Is insurance included?",
+   "lesson": "Урок 16: Аренда машины и заправка",
+   "added": "2026-10-10"
+  },
+  {
+   "en": "driving licence",
+   "ru": "водительские права",
+   "ex": "Here is my driving licence.",
+   "lesson": "Урок 16: Аренда машины и заправка",
+   "added": "2026-10-10"
+  },
+  {
+   "en": "tank",
+   "ru": "бак",
+   "ex": "Is the tank full?",
+   "lesson": "Урок 16: Аренда машины и заправка",
+   "added": "2026-10-10"
+  },
+  {
+   "en": "to return",
+   "ru": "возвращать",
+   "ex": "Please return it full.",
+   "lesson": "Урок 16: Аренда машины и заправка",
+   "added": "2026-10-10"
+  },
+  {
+   "en": "to fill up",
+   "ru": "заправить полностью",
+   "ex": "Fill it up, please.",
+   "lesson": "Урок 16: Аренда машины и заправка",
+   "added": "2026-10-10"
+  },
+  {
+   "en": "gas station",
+   "ru": "заправка",
+   "ex": "Where is the nearest gas station?",
+   "lesson": "Урок 16: Аренда машины и заправка",
+   "added": "2026-10-10"
+  },
+  {
+   "en": "nearest",
+   "ru": "ближайший",
+   "ex": "Where is the nearest bank?",
+   "lesson": "Урок 16: Аренда машины и заправка",
+   "added": "2026-10-10"
+  },
+  {
+   "en": "to lose",
+   "ru": "терять",
+   "ex": "I've lost my luggage.",
+   "lesson": "Урок 17: Проблемы в поездке",
+   "added": "2026-10-10"
+  },
+  {
+   "en": "luggage",
+   "ru": "багаж",
+   "ex": "My luggage is not here.",
+   "lesson": "Урок 17: Проблемы в поездке",
+   "added": "2026-10-10"
+  },
+  {
+   "en": "to miss a flight",
+   "ru": "опоздать на рейс",
+   "ex": "I've missed my flight.",
+   "lesson": "Урок 17: Проблемы в поездке",
+   "added": "2026-10-10"
+  },
+  {
+   "en": "flight",
+   "ru": "рейс",
+   "ex": "What's your flight number?",
+   "lesson": "Урок 17: Проблемы в поездке",
+   "added": "2026-10-10"
+  },
+  {
+   "en": "delayed",
+   "ru": "задержан",
+   "ex": "My flight is delayed.",
+   "lesson": "Урок 17: Проблемы в поездке",
+   "added": "2026-10-10"
+  },
+  {
+   "en": "Can you help me, please?",
+   "ru": "Помогите мне, пожалуйста",
+   "ex": "Excuse me, can you help me, please?",
+   "lesson": "Урок 17: Проблемы в поездке",
+   "added": "2026-10-10"
+  },
+  {
+   "en": "I don't feel well",
+   "ru": "Я плохо себя чувствую",
+   "ex": "I don't feel well, I need a doctor.",
+   "lesson": "Урок 17: Проблемы в поездке",
+   "added": "2026-10-10"
+  },
+  {
+   "en": "to call a doctor",
+   "ru": "вызвать врача",
+   "ex": "Call a doctor, please.",
+   "lesson": "Урок 17: Проблемы в поездке",
+   "added": "2026-10-10"
+  },
+  {
+   "en": "police",
+   "ru": "полиция",
+   "ex": "Call the police, please.",
+   "lesson": "Урок 17: Проблемы в поездке",
+   "added": "2026-10-10"
+  },
+  {
+   "en": "to deliver to",
+   "ru": "доставить в",
+   "ex": "Can you deliver it to my hotel?",
+   "lesson": "Урок 17: Проблемы в поездке",
+   "added": "2026-10-10"
+  },
+  {
+   "en": "suitcase",
+   "ru": "чемодан",
+   "ex": "It's a big black suitcase.",
+   "lesson": "Урок 17: Проблемы в поездке",
+   "added": "2026-10-10"
+  },
+  {
+   "en": "stripe",
+   "ru": "полоса",
+   "ex": "It's black with a white stripe.",
+   "lesson": "Урок 17: Проблемы в поездке",
+   "added": "2026-10-10"
+  },
+  {
+   "en": "Can you repeat, please?",
+   "ru": "Повторите, пожалуйста",
+   "ex": "Sorry, can you repeat, please?",
+   "lesson": "Урок 17: Проблемы в поездке",
+   "added": "2026-10-10"
+  },
+  {
+   "en": "Got it",
+   "ru": "Понял",
+   "ex": "Got it, thank you.",
+   "lesson": "Урок 17: Проблемы в поездке",
+   "added": "2026-10-10"
+  },
+  {
+   "en": "to be born",
+   "ru": "родиться",
+   "ex": "I was born in Russia.",
+   "lesson": "Урок A (Unit 1A): Where were you born?, prefer",
+   "added": "2026-10-10"
+  },
+  {
+   "en": "Where were you born?",
+   "ru": "Где ты родился?",
+   "ex": "Where were you born? — I was born in Russia.",
+   "lesson": "Урок A (Unit 1A): Where were you born?, prefer",
+   "added": "2026-10-10"
+  },
+  {
+   "en": "Where do you live now?",
+   "ru": "Где ты сейчас живёшь?",
+   "ex": "Where do you live now? — I live in Frankfurt.",
+   "lesson": "Урок A (Unit 1A): Where were you born?, prefer",
+   "added": "2026-10-10"
+  },
+  {
+   "en": "now",
+   "ru": "сейчас",
+   "ex": "I live in Frankfurt now.",
+   "lesson": "Урок A (Unit 1A): Where were you born?, prefer",
+   "added": "2026-10-10"
+  },
+  {
+   "en": "to move to",
+   "ru": "переехать в",
+   "ex": "I moved to Germany twenty years ago.",
+   "lesson": "Урок A (Unit 1A): Where were you born?, prefer",
+   "added": "2026-10-10"
+  },
+  {
+   "en": "to prefer",
+   "ru": "предпочитать",
+   "ex": "I prefer Germany.",
+   "lesson": "Урок A (Unit 1A): Where were you born?, prefer",
+   "added": "2026-10-10"
+  },
+  {
+   "en": "place",
+   "ru": "место",
+   "ex": "Which place do you prefer?",
+   "lesson": "Урок A (Unit 1A): Where were you born?, prefer",
+   "added": "2026-10-10"
+  },
+  {
+   "en": "Which place do you prefer?",
+   "ru": "Какое место тебе больше нравится?",
+   "ex": "Which place do you prefer, Russia or Germany?",
+   "lesson": "Урок A (Unit 1A): Where were you born?, prefer",
+   "added": "2026-10-10"
+  },
+  {
+   "en": "because",
+   "ru": "потому что",
+   "ex": "I prefer Germany because my family lives here.",
+   "lesson": "Урок A (Unit 1A): Where were you born?, prefer",
+   "added": "2026-10-10"
+  },
+  {
+   "en": "here",
+   "ru": "здесь",
+   "ex": "My family lives here.",
+   "lesson": "Урок A (Unit 1A): Where were you born?, prefer",
+   "added": "2026-10-10"
+  },
+  {
+   "en": "bigger",
+   "ru": "больше",
+   "ex": "Moscow is bigger than Frankfurt.",
+   "lesson": "Урок A (Unit 1A): Where were you born?, prefer",
+   "added": "2026-10-10"
+  },
+  {
+   "en": "quieter",
+   "ru": "тише, спокойнее",
+   "ex": "Frankfurt is quieter than Moscow.",
+   "lesson": "Урок A (Unit 1A): Where were you born?, prefer",
+   "added": "2026-10-10"
+  },
+  {
+   "en": "more interesting",
+   "ru": "интереснее",
+   "ex": "Berlin is more interesting.",
+   "lesson": "Урок A (Unit 1A): Where were you born?, prefer",
+   "added": "2026-10-10"
+  },
+  {
+   "en": "who",
+   "ru": "кто",
+   "ex": "Who is your favourite actor?",
+   "lesson": "Урок B (Unit 1A): вопросительные слова",
+   "added": "2026-10-10"
+  },
+  {
+   "en": "what",
+   "ru": "что; какой (много вариантов)",
+   "ex": "What do you do?",
+   "lesson": "Урок B (Unit 1A): вопросительные слова",
+   "added": "2026-10-10"
+  },
+  {
+   "en": "which",
+   "ru": "какой (выбор из немногих)",
+   "ex": "Which season do you like the most?",
+   "lesson": "Урок B (Unit 1A): вопросительные слова",
+   "added": "2026-10-10"
+  },
+  {
+   "en": "where",
+   "ru": "где",
+   "ex": "Where does Alan work?",
+   "lesson": "Урок B (Unit 1A): вопросительные слова",
+   "added": "2026-10-10"
+  },
+  {
+   "en": "when",
+   "ru": "когда",
+   "ex": "When did you get married?",
+   "lesson": "Урок B (Unit 1A): вопросительные слова",
+   "added": "2026-10-10"
+  },
+  {
+   "en": "why",
+   "ru": "почему",
+   "ex": "Why do you want to learn English?",
+   "lesson": "Урок B (Unit 1A): вопросительные слова",
+   "added": "2026-10-10"
+  },
+  {
+   "en": "how",
+   "ru": "как",
+   "ex": "How are you feeling today?",
+   "lesson": "Урок B (Unit 1A): вопросительные слова",
+   "added": "2026-10-10"
+  },
+  {
+   "en": "how often",
+   "ru": "как часто",
+   "ex": "How often do you go swimming?",
+   "lesson": "Урок B (Unit 1A): вопросительные слова",
+   "added": "2026-10-10"
+  },
+  {
+   "en": "how much",
+   "ru": "сколько (неисчисляемое)",
+   "ex": "How much time do you spend online?",
+   "lesson": "Урок B (Unit 1A): вопросительные слова",
+   "added": "2026-10-10"
+  },
+  {
+   "en": "how many",
+   "ru": "сколько (исчисляемое)",
+   "ex": "How many people are there in your class?",
+   "lesson": "Урок B (Unit 1A): вопросительные слова",
+   "added": "2026-10-10"
+  },
+  {
+   "en": "how long",
+   "ru": "как долго, сколько длится",
+   "ex": "How long does the journey take?",
+   "lesson": "Урок B (Unit 1A): вопросительные слова",
+   "added": "2026-10-10"
+  },
+  {
+   "en": "how far",
+   "ru": "как далеко",
+   "ex": "How far is your home from here?",
+   "lesson": "Урок B (Unit 1A): вопросительные слова",
+   "added": "2026-10-10"
+  },
+  {
+   "en": "what kind of",
+   "ru": "какой (вид, тип)",
+   "ex": "What kind of music do you like?",
+   "lesson": "Урок B (Unit 1A): вопросительные слова",
+   "added": "2026-10-10"
+  },
+  {
+   "en": "journey",
+   "ru": "поездка, дорога",
+   "ex": "How long does the journey take?",
+   "lesson": "Урок B (Unit 1A): вопросительные слова",
+   "added": "2026-10-10"
+  },
+  {
+   "en": "to take (time)",
+   "ru": "занимать (время)",
+   "ex": "The journey takes about ten hours.",
+   "lesson": "Урок B (Unit 1A): вопросительные слова",
+   "added": "2026-10-10"
+  },
+  {
+   "en": "room",
+   "ru": "комната, номер",
+   "ex": "Which room are you in? — I'm in room 24.",
+   "lesson": "Урок B (Unit 1A): вопросительные слова",
+   "added": "2026-10-10"
+  },
+  {
+   "en": "to go swimming",
+   "ru": "ходить плавать",
+   "ex": "How often do you go swimming?",
+   "lesson": "Урок B (Unit 1A): вопросительные слова",
+   "added": "2026-10-10"
+  },
+  {
+   "en": "twice a week",
+   "ru": "два раза в неделю",
+   "ex": "I go swimming twice a week.",
+   "lesson": "Урок B (Unit 1A): вопросительные слова",
+   "added": "2026-10-10"
+  },
+  {
+   "en": "those",
+   "ru": "те, эти (мн. число)",
+   "ex": "I like those shoes.",
+   "lesson": "Урок B (Unit 1A): вопросительные слова",
+   "added": "2026-10-10"
+  },
+  {
+   "en": "to get",
+   "ru": "взять, купить, достать",
+   "ex": "I got these shoes at the market.",
+   "lesson": "Урок B (Unit 1A): вопросительные слова",
+   "added": "2026-10-10"
+  },
+  {
+   "en": "local market",
+   "ru": "местный рынок",
+   "ex": "I got them from the local market.",
+   "lesson": "Урок B (Unit 1A): вопросительные слова",
+   "added": "2026-10-10"
+  },
+  {
+   "en": "to feel",
+   "ru": "чувствовать себя",
+   "ex": "How are you feeling today?",
+   "lesson": "Урок B (Unit 1A): вопросительные слова",
+   "added": "2026-10-10"
+  },
+  {
+   "en": "today",
+   "ru": "сегодня",
+   "ex": "How are you feeling today?",
+   "lesson": "Урок B (Unit 1A): вопросительные слова",
+   "added": "2026-10-10"
+  },
+  {
+   "en": "great",
+   "ru": "отлично",
+   "ex": "Great, thanks!",
+   "lesson": "Урок B (Unit 1A): вопросительные слова",
+   "added": "2026-10-10"
+  },
+  {
+   "en": "I'm going to the gym now",
+   "ru": "я сейчас еду в зал",
+   "ex": "I'm going to the gym now.",
+   "lesson": "Урок B (Unit 1A): вопросительные слова",
+   "added": "2026-10-10"
+  },
+  {
+   "en": "to watch TV",
+   "ru": "смотреть телевизор",
+   "ex": "Did you watch TV last night?",
+   "lesson": "Урок C (Unit 1A): порядок слов в вопросе, интонация",
+   "added": "2026-10-10"
+  },
+  {
+   "en": "last night",
+   "ru": "вчера вечером",
+   "ex": "I watched TV last night.",
+   "lesson": "Урок C (Unit 1A): порядок слов в вопросе, интонация",
+   "added": "2026-10-10"
+  },
+  {
+   "en": "children",
+   "ru": "дети",
+   "ex": "Do you have any children?",
+   "lesson": "Урок C (Unit 1A): порядок слов в вопросе, интонация",
+   "added": "2026-10-10"
+  },
+  {
+   "en": "Do you have any children?",
+   "ru": "У тебя есть дети?",
+   "ex": "Do you have any children? — Yes, I have a daughter.",
+   "lesson": "Урок C (Unit 1A): порядок слов в вопросе, интонация",
+   "added": "2026-10-10"
+  },
+  {
+   "en": "OK",
+   "ru": "в порядке",
+   "ex": "Are you OK? — Yes, I'm fine, thanks.",
+   "lesson": "Урок C (Unit 1A): порядок слов в вопросе, интонация",
+   "added": "2026-10-10"
+  },
+  {
+   "en": "to call",
+   "ru": "звонить",
+   "ex": "Why did you call me?",
+   "lesson": "Урок C (Unit 1A): порядок слов в вопросе, интонация",
+   "added": "2026-10-10"
+  },
+  {
+   "en": "Why did you call me?",
+   "ru": "Почему ты мне позвонил?",
+   "ex": "Why did you call me? — I wanted to ask you a question.",
+   "lesson": "Урок C (Unit 1A): порядок слов в вопросе, интонация",
+   "added": "2026-10-10"
+  },
+  {
+   "en": "father",
+   "ru": "отец",
+   "ex": "My father works at home.",
+   "lesson": "Урок C (Unit 1A): порядок слов в вопросе, интонация",
+   "added": "2026-10-10"
+  },
+  {
+   "en": "city",
+   "ru": "город",
+   "ex": "Does your father work in the city?",
+   "lesson": "Урок C (Unit 1A): порядок слов в вопросе, интонация",
+   "added": "2026-10-10"
+  },
+  {
+   "en": "money",
+   "ru": "деньги",
+   "ex": "How much money do you have with you?",
+   "lesson": "Урок C (Unit 1A): порядок слов в вопросе, интонация",
+   "added": "2026-10-10"
+  },
+  {
+   "en": "with you",
+   "ru": "с собой",
+   "ex": "I don't have much money with me.",
+   "lesson": "Урок C (Unit 1A): порядок слов в вопросе, интонация",
+   "added": "2026-10-10"
+  },
+  {
+   "en": "class",
+   "ru": "занятие, урок",
+   "ex": "How long is the class? — It's an hour.",
+   "lesson": "Урок C (Unit 1A): порядок слов в вопросе, интонация",
+   "added": "2026-10-10"
+  },
+  {
+   "en": "training",
+   "ru": "тренировка",
+   "ex": "My training was very good.",
+   "lesson": "Урок C (Unit 1A): порядок слов в вопросе, интонация",
+   "added": "2026-10-10"
+  },
+  {
+   "en": "intonation",
+   "ru": "интонация",
+   "ex": "In yes/no questions the intonation goes up.",
+   "lesson": "Урок C (Unit 1A): порядок слов в вопросе, интонация",
+   "added": "2026-10-10"
+  },
+  {
+   "en": "more developed",
+   "ru": "более развитый",
+   "ex": "This city is bigger and more developed.",
+   "lesson": "Урок 18 (10 октября): Where were you born? Вопросы",
+   "added": "2026-10-10"
+  },
+  {
+   "en": "Were you born in…?",
+   "ru": "Ты родился в…?",
+   "ex": "Were you born in Russia?",
+   "lesson": "Урок 18 (10 октября): Where were you born? Вопросы",
+   "added": "2026-10-10"
+  },
+  {
+   "en": "Do you…?",
+   "ru": "Ты (делаешь)…?",
+   "ex": "Do you live in Germany?",
+   "lesson": "Урок 18 (10 октября): Where were you born? Вопросы",
+   "added": "2026-10-10"
+  },
+  {
+   "en": "Does he…?",
+   "ru": "Он (делает)…?",
+   "ex": "Does he live in Berlin?",
+   "lesson": "Урок 18 (10 октября): Where were you born? Вопросы",
+   "added": "2026-10-10"
+  }
+ ]
 }

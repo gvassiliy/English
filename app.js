@@ -168,7 +168,8 @@ function dueList() {
 }
 
 function newList() {
-  return activeWords().filter(w => !prog(w.id)).sort((a, b) => (a.added || '').localeCompare(b.added || '') || a.en.localeCompare(b.en));
+  // по дате, а внутри даты — в порядке уроков из списка
+  return activeWords().filter(w => !prog(w.id)).sort((a, b) => (a.added || '').localeCompare(b.added || ''));
 }
 
 function newLeftToday() {
@@ -610,7 +611,7 @@ function showResult(right, total, mistakes, back) {
 /* ---------------- Написание ---------------- */
 
 function simplify(s) {
-  return norm(s).replace(/[’‘`]/g, "'").replace(/[.,!?;:"«»()]/g, '').replace(/\s+/g, ' ').trim();
+  return norm(s).replace(/…/g, ' ').replace(/[’‘`]/g, "'").replace(/[.,!?;:"«»()]/g, '').replace(/\s+/g, ' ').trim();
 }
 
 function lev(a, b) {
